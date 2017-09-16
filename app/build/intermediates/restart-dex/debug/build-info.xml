@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="COLD"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1504258887217"
+    token="5511105866296705100"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1751" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="62" />
+    <task
+        name="verifier"
+        duration="31" />
+
+    <artifact
+        location="D:\svn\bitbucket\PptProjection\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\svn\bitbucket\PptProjection\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1504258771072"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\svn\bitbucket\PptProjection\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\svn\bitbucket\PptProjection\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1504258887217"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\svn\bitbucket\PptProjection\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\svn\bitbucket\PptProjection\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

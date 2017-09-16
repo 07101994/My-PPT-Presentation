@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\svn\Android_svn\PptProjection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1b35b7d2e2902317ea7bfa0c892ada3e7120e7f">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_04984d9bac00bc3d3d95db1667befac210fb2d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\b730c0adb5e3d78b002842d4fe54ac952c2fa168\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\svn\bitbucket\PptProjection\app\build\intermediates\pre-dexed\debug\classes_ed670a126755e08baeb2bac34fb8efbb2bef8dbd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_stuffs\adt\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_57dc70e39094bf904e1b4f730044ce884f0f8f74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\a89a80234807365ffb27fb427f64fe5e4276d46e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cfcad3badd4c91dadd39c8aed358e250ab2a6d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_stuffs\adt\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\pre-dexed\release\support-annotations-23.1.0_57dc70e39094bf904e1b4f730044ce884f0f8f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\a89a80234807365ffb27fb427f64fe5e4276d46e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\pre-dexed\release\classes_2cfcad3badd4c91dadd39c8aed358e250ab2a6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\svn\bitbucket\PptProjection\app\libs\itsrts-pptviewer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fe550cd594a32e5f319b083a0bab6cebd1d2115">
+        <dex dex="D:\svn\bitbucket\PptProjection\app\build\intermediates\pre-dexed\debug\itsrts-pptviewer_deedde5ae3dd3a00fe2df882a6749099f2e8cf34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\b9528de3dc4c8ca86dd91aa7eaa5bf8570cac360\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\svn\bitbucket\PptProjection\app\build\intermediates\pre-dexed\debug\classes_2ed6b453a10edbdc3aafb787b004b6bc14b5974d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\0a9cf0f9ce5d3a6d51dc5cdb1982443d88ec4929\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ec6d87dcc7499eb9c59ac54e4bc5767119b81a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\a89a80234807365ffb27fb427f64fe5e4276d46e\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_08367fb57b88d729253a4eda694221e52db483ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\0a9cf0f9ce5d3a6d51dc5cdb1982443d88ec4929\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\pre-dexed\release\classes_2ec6d87dcc7499eb9c59ac54e4bc5767119b81a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\a89a80234807365ffb27fb427f64fe5e4276d46e\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0_08367fb57b88d729253a4eda694221e52db483ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\svn\Android_svn\PptProjection\app\libs\itsrts-pptviewer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fe550cd594a32e5f319b083a0bab6cebd1d2115">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\2\itsrts-pptviewer_ef46069d2fd97bfb59a9c427841af6548d8c8d29\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\8ecc82fdb2c2a3c5ee78c01efc0473a3028ae990\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\svn\bitbucket\PptProjection\app\build\intermediates\pre-dexed\debug\classes_245331b85f5b58fdacced50d629444e5162b6edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.android\build-cache\090c74d449dc064bd5768f4e4ec1b373c8e3cca8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\svn\bitbucket\PptProjection\app\build\intermediates\pre-dexed\debug\classes_0bfb5a30f499783e8c3faf7afd5fbf88c5bf20b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\svn\Android_svn\PptProjection\app\libs\itsrts-pptviewer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fe550cd594a32e5f319b083a0bab6cebd1d2115">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\pre-dexed\release\itsrts-pptviewer_ef46069d2fd97bfb59a9c427841af6548d8c8d29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\svn\Android_svn\PptProjection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\svn\Android_svn\PptProjection\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94c5b5c53cf945ad85f4ce469c0dea3a8ef60de7\classes.dex" />
+    </item>
+
+</items>
