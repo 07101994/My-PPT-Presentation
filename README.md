@@ -24,3 +24,7 @@ We welcome contribution. Make a pull request.
 This app is open source.
 
 Thanks for your contribution. Help us by downloading this app or by improving this app.
+
+# License
+
+http://www.apache.org/licenses/LICENSE-2.0
