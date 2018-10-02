@@ -1,6 +1,6 @@
 # My-PPT-Presentation
 
-Available at Google Play store https://play.google.com/store/apps/details?id=com.arrowsappstudios.pptviewer&hl=en
+Available at [Google Play store](https://play.google.com/store/apps/details?id=com.arrowsappstudios.pptviewer&hl=en)
 
 Present your PPT is a great app to open and view your PPT files in your android smartphone on the go. We are further interested to make this app more feature rich so that the users can feel the power of this app.
 
